@@ -1,0 +1,13 @@
+{
+    "name": "silverstripe/howzit",
+    "description": "Provides a Status Page to let users know how it's going.",
+    "type": "silverstripe-module",
+    "license": "BSD-3",
+    "authors": [
+ 		{
+			"name": "Andrew Aitken-Fincham",
+			"email": "andrew@silverstripe.com"
+		}
+    ],
+    "minimum-stability": "dev"
+}
